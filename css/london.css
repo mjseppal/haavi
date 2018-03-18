@@ -99,6 +99,11 @@ H6{
 .float-right{float: right;}
 .float-left{float: left;}
 
+.logo-margin {
+	display: block;
+	margin-bottom: 2em;
+}
+
 /* 
 ** 02 - COLOR SKINS */
 
